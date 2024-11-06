@@ -6,7 +6,7 @@
 Me chamo Jadson Henrique Pimentel, tenho 24 anos e sou natural do Rio Grande do Norte. Concluí o ensino médio na
 Escola E.P.Paulo Nobre, curso técnico em Montagem e Manuteção de Computadores na UFRN. Atualmente, estou cursando Análise e
 Desenvolvimento de Sistemas na OneBitCode. Gosto muito de tecnologia e compartilho meu conhecimento através do meu
-Github, onde faço, crio meus projetos web, onde trago inspirações de projetos, com meu repositorio, perfil.
+Github, onde faço, crio meus projetos web, onde trago inspiração de projetos, com meu repositorio, perfil.
 
 <p align="left">
     <a href="https://www.youtube.com/@jadson.h7">
