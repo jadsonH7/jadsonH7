@@ -39,8 +39,8 @@ Github, onde faço, crio meus projetos web, onde trago inspiração de projetos,
     src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Node.js">
     <img align="left" alt="Git" title="Git" width="70px" padding-right="10px" 
     src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git">
-    <img alt="Github" title="Github" width="70px" padding-right="10px"
-    src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" alt="Github">
+    <img alt="Markdown" title="Markdown" width="70px" padding-right="10px"
+    src="https://img.icons8.com/?size=100&id=21831&format=png&color=006da1" alt="Markdown">
 </p>
 
 <br/>
