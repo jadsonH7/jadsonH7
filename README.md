@@ -57,6 +57,7 @@ Github, onde faço, crio meus projetos web, onde trago inspiração de projetos,
 
 <img
     alt="GitHub Stats"
+    width="400"
     height="150"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsonH7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" />
