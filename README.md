@@ -39,8 +39,8 @@ src="https://img.icons8.com/color/2x/css3.png" alt="CSS3">
     src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git">
     <img alt="Markdown" title="Markdown" width="70px" padding-right="10px"
     src="https://img.icons8.com/?size=100&id=21831&format=png&color=0078b1" alt="Markdown">
-    <img alt="SQL" title="SQL" width="70px" padding-right="10px"
-    src="https://img.icons8.com/?size=100&id=21831&format=png&color=0078b1" alt="SQL">
+    <img align="left" alt="SQL" title="SQL" width="70px" padding-right="10px" 
+src="https://img.icons8.com/color/2x/postgresql.png" alt="SQL">
 </p>
 
 <br/>
