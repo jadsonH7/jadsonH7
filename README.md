@@ -27,11 +27,10 @@ Desenvolvimento de Sistemas na OneBitCode. Gosto muito de tecnologia e compartil
 
 <p>
     <img align="left" alt="HTML5" title="HTML5" width="70px" padding-right="10px" 
-    src="https://img.icons8.com/color/2x/html-5.png" alt="HTML5">
+src="https://img.icons8.com/color/2x/html-5.png" alt="HTML5">
     <img align="left" alt="CSS3" title="CSS3" width="70px" padding-right="10px"
-    src="https://img.icons8.com/color/2x/css3.png" alt="CSS3">
-    <img align="left" alt="JavaScript" title="JavaScript" width="80px" padding-right="10px" 
-    src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript">
+src="https://img.icons8.com/color/2x/css3.png" alt="CSS3">
+    <img align="left" alt="JavaScript" title="JavaScript" width="80px" padding-right="10px"   src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript">
     <img align="left" alt="TypeScript" title="TypeScript" width="70px" padding-right="10px" 
     src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" alt="Typescript">
     <img align="left" alt="Node.js" title="Node.js" width="70px" padding-right="10px" 
@@ -40,6 +39,8 @@ Desenvolvimento de Sistemas na OneBitCode. Gosto muito de tecnologia e compartil
     src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git">
     <img alt="Markdown" title="Markdown" width="70px" padding-right="10px"
     src="https://img.icons8.com/?size=100&id=21831&format=png&color=0078b1" alt="Markdown">
+    <img alt="SQL" title="SQL" width="70px" padding-right="10px"
+    src="https://img.icons8.com/?size=100&id=21831&format=png&color=0078b1" alt="SQL">
 </p>
 
 <br/>
