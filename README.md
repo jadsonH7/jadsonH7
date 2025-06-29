@@ -40,7 +40,7 @@ src="https://img.icons8.com/color/2x/css3.png" alt="CSS3">
     <img alt="Markdown" title="Markdown" width="70px" padding-right="10px"
     src="https://img.icons8.com/?size=100&id=21831&format=png&color=0078b1" alt="Markdown">
     <img align="left" alt="SQL" title="SQL" width="70px" padding-right="10px" 
-src="https://img.icons8.com/color/2x/postgresql.png" alt="SQL">
+src="https://img.icons8.com/color/2x/postgres.png" alt="SQL">
 </p>
 
 <br/>
